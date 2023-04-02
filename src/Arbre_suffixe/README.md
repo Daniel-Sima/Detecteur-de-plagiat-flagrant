@@ -1,6 +1,8 @@
 Executer le fichier source `souce.ml` pour tous vos tests comme ceci:
-    ```properties
+    ```
     ocamlc source.mal -o prog
+    ```
+    ```
     ./prog
     ```
 
