@@ -1,6 +1,6 @@
 Dans se fichier se trouve tout le code pour pouvoir tester sur les données.
 
-Executer le fichier source "souce.ml" pour tous vos tests comme ceci:  
+Executer le fichier source `souce.ml` pour tous vos tests comme ceci:  
     `ocamlc unix.cma source.ml -o prog`  
     `./prog`  
 
