@@ -1,8 +1,8 @@
 Le code de la partie #4 commence ligne 256, avant cette ligne se trouve le code de la partie #3 necessaire pour certaines fonctions de cette partie.
 
-Executer le fichier source "souce.ml" pour tous vos tests comme ceci:
-    `ocamlc source.mal -o prog`
-    `./prog`
+Executer le fichier source "souce.ml" pour tous vos tests comme ceci:  
+    `ocamlc source.mal -o prog`  
+    `./prog`  
 
 A la fin du fichier `source.ml` se trouve la partie tests.
 - Pour tester le bon fonctionnement de la fonction compression (compression1) vous changer le mot
