@@ -1,5 +1,5 @@
 Executer le fichier source `souce.ml` pour tous vos tests comme ceci:
-    ```bash
+    ```properties
     ocamlc source.mal -o prog
     ./prog
     ```
