@@ -1,11 +1,10 @@
 Executer le fichier source `souce.ml` pour tous vos tests comme ceci:
-    ```shell script
+    ```shell
     ocamlc source.mal -o prog
     ./prog
     ```
-    {.copyable}
 
-A la fin du fichier "source.ml" se trouve la partie tests.
+A la fin du fichier `source.ml` se trouve la partie tests.
 - Pour tester le bon fonctionnement de la fonction ArbreSuffixes (`arbre_suffixes`) vous pouvez changer
   "ANANAS_" par d'autres mots et verifier dans le dossier Graphe le graphe graphe_suffixes_1.png pour voir le arbre des suffixes du mot choisit.
     - Si vous n'avez pas .dot alors il est possible que vous ne pouriez pas genere le graphe automatiquement. Soit vous l'installez soit vous passez par le site: https://graphs.grevian.org/graph et entrez ce qu'il y a dans le fichier arbre_suffixes.dot.
