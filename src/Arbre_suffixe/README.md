@@ -1,6 +1,6 @@
-Executer le fichier source `souce.ml` pour tous vos tests comme ceci:
-`ocamlc source.mal -o prog` 
-`./prog`
+Executer le fichier source `souce.ml` pour tous vos tests comme ceci:  
+`ocamlc source.mal -o prog`   
+`./prog`  
 
 A la fin du fichier `source.ml` se trouve la partie tests.
 - Pour tester le bon fonctionnement de la fonction ArbreSuffixes (arbre_suffixes) vous pouvez changer
